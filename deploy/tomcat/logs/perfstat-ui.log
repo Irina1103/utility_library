@@ -1,0 +1,1090 @@
+Performance Statistics   2019-07-11 18:36:00 - 2019-07-11 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     256,0         256         256         0,0           1
+loginWindow#init                                        22,0          22          22         0,0           1
+loginWindow#inject                                      62,0          62          62         0,0           1
+loginWindow#load                                       485,0         485         485         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         15,5           0          31        15,5           2
+mainWindow#create                                       11,0          11          11         0,0           1
+mainWindow#init                                         13,0          13          13         0,0           1
+mainWindow#inject                                       11,0          11          11         0,0           1
+mainWindow#load                                        275,0         275         275         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+
+Performance Statistics   2019-07-11 18:48:00 - 2019-07-11 18:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     300,0         300         300         0,0           1
+loginWindow#init                                        20,0          20          20         0,0           1
+loginWindow#inject                                      57,0          57          57         0,0           1
+loginWindow#load                                       535,0         535         535         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          7,5           0          15         7,5           2
+mainWindow#create                                       11,0          11          11         0,0           1
+mainWindow#init                                         14,0          14          14         0,0           1
+mainWindow#inject                                       12,0          12          12         0,0           1
+mainWindow#load                                        384,0         384         384         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+
+Performance Statistics   2019-07-11 18:56:00 - 2019-07-11 18:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse               102,0         102         102         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     156,0         156         156         0,0           1
+loginWindow#init                                        23,0          23          23         0,0           1
+loginWindow#inject                                      58,0          58          58         0,0           1
+loginWindow#load                                       522,0         522         522         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          4,0           0           8         4,0           2
+lookupWindowActions#create                              12,5           0          25        12,5           2
+lookupWindowActions#inject                               2,0           0           4         2,0           2
+lookupWindowActions#load                                 3,5           2           5         1,5           2
+lookupWindowActions#xml                                  0,2           0           2         0,6          12
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                        9,0           9           9         0,0           1
+mainWindow#init                                         11,0          11          11         0,0           1
+mainWindow#inject                                       10,0          10          10         0,0           1
+mainWindow#load                                        198,0         198         198         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,0           0           2         1,0           2
+sec$User.browse#afterShow                                1,0           0           2         1,0           2
+sec$User.browse#beforeShow                               0,0           0           0         0,0           2
+sec$User.browse#create                                   7,0           0          14         7,0           2
+sec$User.browse#init                                     3,5           0           7         3,5           2
+sec$User.browse#inject                                   6,5           0          13         6,5           2
+sec$User.browse#load                                   270,5          10         531       260,5           2
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           2
+sec$User.browse#xml                                      1,2           0           5         1,9           5
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           2
+sec$User.browse@usersDs                                190,5          17         364       173,5           2
+
+Performance Statistics   2019-07-11 19:00:00 - 2019-07-11 19:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Book.browse                    618,0         618         618         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     202,0         202         202         0,0           1
+loginWindow#init                                        19,0          19          19         0,0           1
+loginWindow#inject                                      51,0          51          51         0,0           1
+loginWindow#load                                       531,0         531         531         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          4,0           0           8         4,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       10,0          10          10         0,0           1
+mainWindow#init                                         12,0          12          12         0,0           1
+mainWindow#inject                                       12,0          12          12         0,0           1
+mainWindow#load                                        237,0         237         237         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+utilitylibrary_Book.browse#afterShow                     2,0           2           2         0,0           1
+utilitylibrary_Book.browse#beforeShow                   21,0          21          21         0,0           1
+utilitylibrary_Book.browse#create                       14,0          14          14         0,0           1
+utilitylibrary_Book.browse#init                          3,0           3           3         0,0           1
+utilitylibrary_Book.browse#inject                        1,0           1           1         0,0           1
+utilitylibrary_Book.browse#load                        484,0         484         484         0,0           1
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Book.browse#xml                           4,0           4           4         0,0           1
+
+Performance Statistics   2019-07-11 20:34:00 - 2019-07-11 20:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2436,0        2436        2436         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     256,0         256         256         0,0           1
+loginWindow#init                                        32,0          32          32         0,0           1
+loginWindow#inject                                      75,0          75          75         0,0           1
+loginWindow#load                                       855,0         855         855         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         11,5           0          23        11,5           2
+lookupWindowActions#create                              61,0          61          61         0,0           1
+lookupWindowActions#inject                              18,0          18          18         0,0           1
+lookupWindowActions#load                                29,0          29          29         0,0           1
+lookupWindowActions#xml                                  0,8           0           4         1,5           6
+mainWindow#afterShow                                     8,0           8           8         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       16,0          16          16         0,0           1
+mainWindow#init                                         40,0          40          40         0,0           1
+mainWindow#inject                                       27,0          27          27         0,0           1
+mainWindow#load                                        457,0         457         457         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+sec$User.browse#afterShow                                7,0           7           7         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  23,0          23          23         0,0           1
+sec$User.browse#init                                    14,0          14          14         0,0           1
+sec$User.browse#inject                                  18,0          18          18         0,0           1
+sec$User.browse#load                                  1107,0        1107        1107         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      7,0           0          14         7,0           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                806,0         806         806         0,0           1
+
+Performance Statistics   2019-07-11 20:44:00 - 2019-07-11 20:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2737,0        2737        2737         0,0           1
+MenuItem.utilitylibrary_Status.browse                  266,0         266         266         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     254,0         254         254         0,0           1
+loginWindow#init                                        38,0          38          38         0,0           1
+loginWindow#inject                                      93,0          93          93         0,0           1
+loginWindow#load                                      1198,0        1198        1198         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         11,0           0          22        11,0           2
+lookupWindowActions#create                              22,0          22          22         0,0           1
+lookupWindowActions#inject                               9,0           9           9         0,0           1
+lookupWindowActions#load                                15,0          15          15         0,0           1
+lookupWindowActions#xml                                  0,5           0           3         1,1           6
+mainWindow#afterShow                                     7,0           7           7         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       15,0          15          15         0,0           1
+mainWindow#init                                         38,0          38          38         0,0           1
+mainWindow#inject                                       25,0          25          25         0,0           1
+mainWindow#load                                        486,0         486         486         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+sec$User.browse#afterShow                                6,0           6           6         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  36,0          36          36         0,0           1
+sec$User.browse#init                                    13,0          13          13         0,0           1
+sec$User.browse#inject                                  23,0          23          23         0,0           1
+sec$User.browse#load                                  1416,0        1416        1416         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      7,5           0          15         7,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                867,0         867         867         0,0           1
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                 22,0          22          22         0,0           1
+utilitylibrary_Status.browse#create                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#init                        1,0           1           1         0,0           1
+utilitylibrary_Status.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#load                      165,0         165         165         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         8,0           8           8         0,0           1
+utilitylibrary_Status.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Status.edit#beforeShow                    6,0           6           6         0,0           1
+utilitylibrary_Status.edit#create                        3,0           3           3         0,0           1
+utilitylibrary_Status.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#inject                        6,0           6           6         0,0           1
+utilitylibrary_Status.edit#load                        992,0         992         992         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 20:50:00 - 2019-07-11 20:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     323,0         323         323         0,0           1
+loginWindow#init                                        59,0          59          59         0,0           1
+loginWindow#inject                                     117,0         117         117         0,0           1
+loginWindow#load                                      1038,0        1038        1038         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         13,0           0          26        13,0           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       13,0          13          13         0,0           1
+mainWindow#init                                         32,0          32          32         0,0           1
+mainWindow#inject                                       30,0          30          30         0,0           1
+mainWindow#load                                        519,0         519         519         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+
+Performance Statistics   2019-07-11 20:52:00 - 2019-07-11 20:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2534,0        2534        2534         0,0           1
+editWindowActions#create                                34,0          34          34         0,0           1
+editWindowActions#xml                                   11,0           3          19         8,0           2
+lookupWindowActions#create                              23,0          23          23         0,0           1
+lookupWindowActions#inject                               8,0           8           8         0,0           1
+lookupWindowActions#load                                13,0          13          13         0,0           1
+lookupWindowActions#xml                                  0,5           0           3         1,1           6
+sec$User.browse#afterShow                                6,0           6           6         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  28,0          28          28         0,0           1
+sec$User.browse#init                                    11,0          11          11         0,0           1
+sec$User.browse#inject                                  17,0          17          17         0,0           1
+sec$User.browse#load                                  1331,0        1331        1331         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      8,0           0          16         8,0           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                776,0         776         776         0,0           1
+sec$User.edit#afterShow                                  0,0           0           0         0,0           1
+sec$User.edit#beforeShow                                 0,0           0           0         0,0           1
+sec$User.edit#companion                                  7,0           7           7         0,0           1
+sec$User.edit#create                                     4,0           4           4         0,0           1
+sec$User.edit#init                                     150,0         150         150         0,0           1
+sec$User.edit#inject                                     6,0           0          12         6,0           2
+sec$User.edit#load                                     828,0         828         828         0,0           1
+sec$User.edit#uiPermissions                              0,0           0           0         0,0           1
+sec$User.edit#xml                                        5,6           0          28        11,2           5
+sec$User.edit.windowActions#init                         0,0           0           0         0,0           1
+sec$User.edit.windowActions#load                         0,0           0           0         0,0           1
+
+Performance Statistics   2019-07-11 20:54:00 - 2019-07-11 20:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 20:56:00 - 2019-07-11 20:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 20:58:00 - 2019-07-11 21:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:00:00 - 2019-07-11 21:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:02:00 - 2019-07-11 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:04:00 - 2019-07-11 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:06:00 - 2019-07-11 21:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:08:00 - 2019-07-11 21:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:10:00 - 2019-07-11 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1532,0        1532        1532         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     356,0         356         356         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      89,0          89          89         0,0           1
+loginWindow#load                                      1316,0        1316        1316         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         12,5           0          25        12,5           2
+mainWindow#afterShow                                     8,0           8           8         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         52,0          52          52         0,0           1
+mainWindow#inject                                       50,0          50          50         0,0           1
+mainWindow#load                                        776,0         776         776         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+utilitylibrary_Status.browse#afterShow                   6,0           6           6         0,0           1
+utilitylibrary_Status.browse#beforeShow                 31,0          31          31         0,0           1
+utilitylibrary_Status.browse#create                     18,0          18          18         0,0           1
+utilitylibrary_Status.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Status.browse#inject                      2,0           2           2         0,0           1
+utilitylibrary_Status.browse#load                     1310,0        1310        1310         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         5,0           5           5         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#inject                       13,0          13          13         0,0           1
+utilitylibrary_Status.edit#load                        591,0         591         591         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           4,0           4           4         0,0           1
+
+Performance Statistics   2019-07-11 21:12:00 - 2019-07-11 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1491,0        1491        1491         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     316,0         316         316         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      84,0          84          84         0,0           1
+loginWindow#load                                       933,0         933         933         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         14,0           1          27        13,0           2
+mainWindow#afterShow                                     7,0           7           7         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       17,0          17          17         0,0           1
+mainWindow#init                                         40,0          40          40         0,0           1
+mainWindow#inject                                       18,0          18          18         0,0           1
+mainWindow#load                                        490,0         490         490         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,5           0           7         3,5           2
+utilitylibrary_Status.browse#afterShow                   8,0           8           8         0,0           1
+utilitylibrary_Status.browse#beforeShow                 42,0          42          42         0,0           1
+utilitylibrary_Status.browse#create                     17,0          17          17         0,0           1
+utilitylibrary_Status.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Status.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#load                     1183,0        1183        1183         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         4,0           4           4         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          3,0           3           3         0,0           1
+utilitylibrary_Status.edit#inject                       16,0          16          16         0,0           1
+utilitylibrary_Status.edit#load                        729,0         729         729         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 21:14:00 - 2019-07-11 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1554,0        1554        1554         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     290,0         290         290         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      74,0          74          74         0,0           1
+loginWindow#load                                       835,0         835         835         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         15,0           0          30        15,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       16,0          16          16         0,0           1
+mainWindow#init                                         33,0          33          33         0,0           1
+mainWindow#inject                                       18,0          18          18         0,0           1
+mainWindow#load                                        415,0         415         415         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+utilitylibrary_Status.browse#afterShow                   7,0           7           7         0,0           1
+utilitylibrary_Status.browse#beforeShow                 25,0          25          25         0,0           1
+utilitylibrary_Status.browse#create                     29,0          29          29         0,0           1
+utilitylibrary_Status.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Status.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#load                     1320,0        1320        1320         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         8,0           8           8         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#inject                       13,0          13          13         0,0           1
+utilitylibrary_Status.edit#load                        579,0         579         579         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-07-11 21:14:00 - 2019-07-11 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1188,0        1188        1188         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     277,0         277         277         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      74,0          74          74         0,0           1
+loginWindow#load                                       945,0         945         945         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         14,5           0          29        14,5           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         35,0          35          35         0,0           1
+mainWindow#inject                                       20,0          20          20         0,0           1
+mainWindow#load                                        486,0         486         486         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+utilitylibrary_Status.browse#afterShow                   6,0           6           6         0,0           1
+utilitylibrary_Status.browse#beforeShow                 27,0          27          27         0,0           1
+utilitylibrary_Status.browse#create                     19,0          19          19         0,0           1
+utilitylibrary_Status.browse#init                        1,0           1           1         0,0           1
+utilitylibrary_Status.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#load                      985,0         985         985         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         5,0           5           5         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#inject                       12,0          12          12         0,0           1
+utilitylibrary_Status.edit#load                        574,0         574         574         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 21:16:00 - 2019-07-11 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1354,0        1354        1354         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     334,0         334         334         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      79,0          79          79         0,0           1
+loginWindow#load                                       925,0         925         925         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         16,0           0          32        16,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         30,0          30          30         0,0           1
+mainWindow#inject                                       17,0          17          17         0,0           1
+mainWindow#load                                        466,0         466         466         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+utilitylibrary_Status.browse#afterShow                   8,0           8           8         0,0           1
+utilitylibrary_Status.browse#beforeShow                 29,0          29          29         0,0           1
+utilitylibrary_Status.browse#create                     17,0          17          17         0,0           1
+utilitylibrary_Status.browse#init                        3,0           3           3         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                     1119,0        1119        1119         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         6,0           6           6         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#load                        672,0         672         672         0,0           1
+utilitylibrary_Status.edit#xml                           5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 21:18:00 - 2019-07-11 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+utilitylibrary_Status.edit#init                          3,0           3           3         0,0           1
+utilitylibrary_Status.edit#inject                       20,0          20          20         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+
+Performance Statistics   2019-07-11 21:18:00 - 2019-07-11 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     337,0         337         337         0,0           1
+loginWindow#init                                        36,0          36          36         0,0           1
+loginWindow#inject                                      76,0          76          76         0,0           1
+loginWindow#load                                      1214,0        1214        1214         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         13,0           0          26        13,0           2
+mainWindow#afterShow                                     9,0           9           9         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       12,0          12          12         0,0           1
+mainWindow#init                                         43,0          43          43         0,0           1
+mainWindow#inject                                       24,0          24          24         0,0           1
+mainWindow#load                                        442,0         442         442         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+
+Performance Statistics   2019-07-11 21:20:00 - 2019-07-11 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2491,0        2491        2491         0,0           1
+MenuItem.utilitylibrary_Status.browse                  212,0         212         212         0,0           1
+editWindowActions#create                                 1,0           0           2         0,6           5
+editWindowActions#xml                                    0,7           0           3         1,1          10
+lookupWindowActions#create                              11,0           0          22        11,0           2
+lookupWindowActions#inject                               3,0           0           6         3,0           2
+lookupWindowActions#load                                 7,0           2          12         5,0           2
+lookupWindowActions#xml                                  0,4           0           3         1,0          12
+sec$Role.lookup#afterShow                                0,0           0           0         0,0           1
+sec$Role.lookup#beforeShow                               0,0           0           0         0,0           1
+sec$Role.lookup#create                                   0,0           0           0         0,0           1
+sec$Role.lookup#init                                     2,0           2           2         0,0           1
+sec$Role.lookup#inject                                   5,0           5           5         0,0           1
+sec$Role.lookup#load                                   136,0         136         136         0,0           1
+sec$Role.lookup#uiPermissions                            0,0           0           0         0,0           1
+sec$Role.lookup#xml                                      8,4           0          42        16,8           5
+sec$Role.lookup.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$Role.lookup@rolesDs                                 17,0          17          17         0,0           1
+sec$User.browse#afterShow                                9,0           9           9         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  31,0          31          31         0,0           1
+sec$User.browse#init                                    12,0          12          12         0,0           1
+sec$User.browse#inject                                  19,0          19          19         0,0           1
+sec$User.browse#load                                  1177,0        1177        1177         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      7,5           0          15         7,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                869,0         869         869         0,0           1
+sec$User.edit#afterShow                                  0,0           0           0         0,0           4
+sec$User.edit#beforeShow                                 0,0           0           0         0,0           4
+sec$User.edit#companion                                  2,8           0           7         2,6           4
+sec$User.edit#create                                     1,0           0           4         1,7           4
+sec$User.edit#init                                      43,0           4         158        66,4           4
+sec$User.edit#inject                                     1,5           0          11         3,6           8
+sec$User.edit#load                                     209,0          17         753       314,3           4
+sec$User.edit#uiPermissions                              0,0           0           0         0,0           4
+sec$User.edit#xml                                        1,1           0          17         3,7          20
+sec$User.edit.windowActions#init                         0,0           0           0         0,0           4
+sec$User.edit.windowActions#load                         0,0           0           0         0,0           4
+sec$UserSubstitution.edit#afterShow                      0,0           0           0         0,0           1
+sec$UserSubstitution.edit#beforeShow                     0,0           0           0         0,0           1
+sec$UserSubstitution.edit#create                        94,0          94          94         0,0           1
+sec$UserSubstitution.edit#init                           0,0           0           0         0,0           1
+sec$UserSubstitution.edit#inject                         2,5           0           5         2,5           2
+sec$UserSubstitution.edit#load                         289,0         289         289         0,0           1
+sec$UserSubstitution.edit#uiPermissions                  0,0           0           0         0,0           1
+sec$UserSubstitution.edit#xml                            8,0           0          40        16,0           5
+sec$UserSubstitution.edit.windowActions#init             0,0           0           0         0,0           1
+sec$UserSubstitution.edit.windowActions#load             0,0           0           0         0,0           1
+sec$UserSubstitution.edit@users                         21,0          21          21         0,0           1
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                 15,0          15          15         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                      144,0         144         144         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         5,0           5           5         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          1,0           1           1         0,0           1
+utilitylibrary_Status.edit#inject                       13,0          13          13         0,0           1
+utilitylibrary_Status.edit#load                        127,0         127         127         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-07-11 21:34:00 - 2019-07-11 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2150,0        2150        2150         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     424,0         424         424         0,0           1
+loginWindow#init                                        36,0          36          36         0,0           1
+loginWindow#inject                                      92,0          92          92         0,0           1
+loginWindow#load                                      1487,0        1487        1487         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          9,5           0          19         9,5           2
+lookupWindowActions#create                              22,0          22          22         0,0           1
+lookupWindowActions#inject                               7,0           7           7         0,0           1
+lookupWindowActions#load                                13,0          13          13         0,0           1
+lookupWindowActions#xml                                  0,3           0           2         0,7           6
+mainWindow#afterShow                                     8,0           8           8         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       16,0          16          16         0,0           1
+mainWindow#init                                         47,0          47          47         0,0           1
+mainWindow#inject                                       28,0          28          28         0,0           1
+mainWindow#load                                        585,0         585         585         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+sec$User.browse#afterShow                                8,0           8           8         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  23,0          23          23         0,0           1
+sec$User.browse#init                                    13,0          13          13         0,0           1
+sec$User.browse#inject                                  18,0          18          18         0,0           1
+sec$User.browse#load                                  1021,0        1021        1021         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      5,5           0          11         5,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                725,0         725         725         0,0           1
+
+Performance Statistics   2019-07-11 21:36:00 - 2019-07-11 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:44:00 - 2019-07-11 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              2382,0        2382        2382         0,0           1
+MenuItem.utilitylibrary_Author.browse                   54,0          54          54         0,0           1
+MenuItem.utilitylibrary_Book.browse                     65,0          65          65         0,0           1
+MenuItem.utilitylibrary_Status.browse                  172,0         172         172         0,0           1
+editWindowActions#create                                 1,0           1           1         0,0           1
+editWindowActions#xml                                    1,5           0           3         1,5           2
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     328,0         328         328         0,0           1
+loginWindow#init                                        44,0          44          44         0,0           1
+loginWindow#inject                                      95,0          95          95         0,0           1
+loginWindow#load                                      1112,0        1112        1112         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         14,0           0          28        14,0           2
+lookupWindowActions#create                              67,0          67          67         0,0           1
+lookupWindowActions#inject                               8,0           8           8         0,0           1
+lookupWindowActions#load                                13,0          13          13         0,0           1
+lookupWindowActions#xml                                  0,7           0           3         1,1           6
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         47,0          47          47         0,0           1
+mainWindow#inject                                       35,0          35          35         0,0           1
+mainWindow#load                                        680,0         680         680         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+sec$User.browse#afterShow                                8,0           8           8         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  37,0          37          37         0,0           1
+sec$User.browse#init                                    17,0          17          17         0,0           1
+sec$User.browse#inject                                  23,0          23          23         0,0           1
+sec$User.browse#load                                  1109,0        1109        1109         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      7,5           0          15         7,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                771,0         771         771         0,0           1
+sec$User.edit#afterShow                                  0,0           0           0         0,0           1
+sec$User.edit#beforeShow                                 0,0           0           0         0,0           1
+sec$User.edit#companion                                  6,0           6           6         0,0           1
+sec$User.edit#create                                     6,0           6           6         0,0           1
+sec$User.edit#init                                     131,0         131         131         0,0           1
+sec$User.edit#inject                                     4,5           0           9         4,5           2
+sec$User.edit#load                                     845,0         845         845         0,0           1
+sec$User.edit#uiPermissions                              0,0           0           0         0,0           1
+sec$User.edit#xml                                        2,6           0          13         5,2           5
+sec$User.edit.windowActions#init                         0,0           0           0         0,0           1
+sec$User.edit.windowActions#load                         0,0           0           0         0,0           1
+utilitylibrary_Author.browse#afterShow                   0,0           0           0         0,0           3
+utilitylibrary_Author.browse#beforeShow                 12,0           8          16         3,3           3
+utilitylibrary_Author.browse#create                      0,0           0           0         0,0           3
+utilitylibrary_Author.browse#init                        0,0           0           0         0,0           3
+utilitylibrary_Author.browse#inject                      0,0           0           0         0,0           3
+utilitylibrary_Author.browse#load                        8,0           4          13         3,7           3
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           3
+utilitylibrary_Author.browse#xml                         1,7           0           3         1,2           3
+utilitylibrary_Author.edit#afterShow                     0,0           0           0         0,0           3
+utilitylibrary_Author.edit#beforeShow                    0,0           0           0         0,0           3
+utilitylibrary_Author.edit#create                        0,0           0           0         0,0           3
+utilitylibrary_Author.edit#init                          0,0           0           0         0,0           3
+utilitylibrary_Author.edit#inject                        0,0           0           0         0,0           3
+utilitylibrary_Author.edit#load                         13,3           3          34        14,6           3
+utilitylibrary_Author.edit#uiPermissions                 0,0           0           0         0,0           3
+utilitylibrary_Author.edit#xml                           1,7           0           3         1,2           3
+utilitylibrary_Book.browse#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Book.browse#beforeShow                    9,0           9           9         0,0           1
+utilitylibrary_Book.browse#create                       14,0          14          14         0,0           1
+utilitylibrary_Book.browse#init                          0,0           0           0         0,0           1
+utilitylibrary_Book.browse#inject                        0,0           0           0         0,0           1
+utilitylibrary_Book.browse#load                         11,0          11          11         0,0           1
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Book.browse#xml                           5,0           5           5         0,0           1
+utilitylibrary_Book.edit#afterShow                       0,0           0           0         0,0           1
+utilitylibrary_Book.edit#beforeShow                      0,0           0           0         0,0           1
+utilitylibrary_Book.edit#create                          0,0           0           0         0,0           1
+utilitylibrary_Book.edit#init                            0,0           0           0         0,0           1
+utilitylibrary_Book.edit#inject                          0,0           0           0         0,0           1
+utilitylibrary_Book.edit#load                           20,0          20          20         0,0           1
+utilitylibrary_Book.edit#uiPermissions                   0,0           0           0         0,0           1
+utilitylibrary_Book.edit#xml                             2,0           2           2         0,0           1
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                 13,0          13          13         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                      114,0         114         114         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         5,0           5           5         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          1,0           1           1         0,0           1
+utilitylibrary_Status.edit#inject                       18,0          18          18         0,0           1
+utilitylibrary_Status.edit#load                        251,0         251         251         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-07-11 21:46:00 - 2019-07-11 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                   60,0          60          60         0,0           1
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                  9,0           9           9         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                        9,0           9           9         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         2,0           2           2         0,0           1
+utilitylibrary_Status.edit#create                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#init                          0,0           0           0         0,0           1
+utilitylibrary_Status.edit#inject                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#load                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           2,0           2           2         0,0           1
+
+Performance Statistics   2019-07-11 21:48:00 - 2019-07-11 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 21:50:00 - 2019-07-11 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 22:52:00 - 2019-07-11 22:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse              3249,0        3249        3249         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   2,0           2           2         0,0           1
+loginWindow#create                                     378,0         378         378         0,0           1
+loginWindow#init                                        64,0          64          64         0,0           1
+loginWindow#inject                                     155,0         155         155         0,0           1
+loginWindow#load                                      1292,0        1292        1292         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         26,0           0          52        26,0           2
+lookupWindowActions#create                              22,0          22          22         0,0           1
+lookupWindowActions#inject                               6,0           6           6         0,0           1
+lookupWindowActions#load                                12,0          12          12         0,0           1
+lookupWindowActions#xml                                 18,0           0         108        40,2           6
+mainWindow#afterShow                                    11,0          11          11         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       17,0          17          17         0,0           1
+mainWindow#init                                         41,0          41          41         0,0           1
+mainWindow#inject                                       24,0          24          24         0,0           1
+mainWindow#load                                        676,0         676         676         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           4,0           0           8         4,0           2
+sec$User.browse#afterShow                                8,0           8           8         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                  34,0          34          34         0,0           1
+sec$User.browse#init                                    11,0          11          11         0,0           1
+sec$User.browse#inject                                  19,0          19          19         0,0           1
+sec$User.browse#load                                  1825,0        1825        1825         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                     28,5           0          57        28,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                818,0         818         818         0,0           1
+
+Performance Statistics   2019-07-11 22:58:00 - 2019-07-11 23:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Book.browse                   1597,0        1597        1597         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     449,0         449         449         0,0           1
+loginWindow#init                                        36,0          36          36         0,0           1
+loginWindow#inject                                     133,0         133         133         0,0           1
+loginWindow#load                                      1094,0        1094        1094         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         20,0           0          40        20,0           2
+mainWindow#afterShow                                     8,0           8           8         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       17,0          17          17         0,0           1
+mainWindow#init                                         50,0          50          50         0,0           1
+mainWindow#inject                                       18,0          18          18         0,0           1
+mainWindow#load                                        582,0         582         582         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+utilitylibrary_Author.browse#create                      0,0           0           0         0,0           2
+utilitylibrary_Author.browse#init                        0,5           0           1         0,5           2
+utilitylibrary_Author.browse#inject                      0,0           0           0         0,0           2
+utilitylibrary_Author.browse#load                       12,5           9          16         3,5           2
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           2
+utilitylibrary_Author.browse#xml                         3,5           1           6         2,5           2
+utilitylibrary_Book.browse#afterShow                     6,0           6           6         0,0           1
+utilitylibrary_Book.browse#beforeShow                   74,0          74          74         0,0           1
+utilitylibrary_Book.browse#create                       21,0          21          21         0,0           1
+utilitylibrary_Book.browse#init                          2,0           2           2         0,0           1
+utilitylibrary_Book.browse#inject                        0,0           0           0         0,0           1
+utilitylibrary_Book.browse#load                       1320,0        1320        1320         0,0           1
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Book.browse#xml                           6,0           6           6         0,0           1
+
+Performance Statistics   2019-07-11 23:00:00 - 2019-07-11 23:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     285,0         285         285         0,0           1
+loginWindow#init                                        53,0          53          53         0,0           1
+loginWindow#inject                                      99,0          99          99         0,0           1
+loginWindow#load                                      1055,0        1055        1055         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         14,5           0          29        14,5           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         35,0          35          35         0,0           1
+mainWindow#inject                                       21,0          21          21         0,0           1
+mainWindow#load                                        619,0         619         619         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+utilitylibrary_Author.browse#create                     20,0          20          20         0,0           1
+utilitylibrary_Author.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Author.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Author.browse#load                     1114,0        1114        1114         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         8,0           8           8         0,0           1
+
+Performance Statistics   2019-07-11 23:02:00 - 2019-07-11 23:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-07-11 23:06:00 - 2019-07-11 23:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     361,0         361         361         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      85,0          85          85         0,0           1
+loginWindow#load                                       960,0         960         960         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         13,0           0          26        13,0           2
+mainWindow#afterShow                                     7,0           7           7         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       13,0          13          13         0,0           1
+mainWindow#init                                         33,0          33          33         0,0           1
+mainWindow#inject                                       23,0          23          23         0,0           1
+mainWindow#load                                        461,0         461         461         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+utilitylibrary_Author.browse#create                     24,0          24          24         0,0           1
+utilitylibrary_Author.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Author.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Author.browse#load                     1090,0        1090        1090         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         9,0           9           9         0,0           1
+
+Performance Statistics   2019-07-11 23:08:00 - 2019-07-11 23:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Author.browse                 1169,0        1169        1169         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     328,0         328         328         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      97,0          97          97         0,0           1
+loginWindow#load                                       885,0         885         885         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         10,5           0          21        10,5           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       13,0          13          13         0,0           1
+mainWindow#init                                         37,0          37          37         0,0           1
+mainWindow#inject                                       23,0          23          23         0,0           1
+mainWindow#load                                        432,0         432         432         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+utilitylibrary_Author.browse#afterShow                   6,0           6           6         0,0           1
+utilitylibrary_Author.browse#beforeShow                 67,0          67          67         0,0           1
+utilitylibrary_Author.browse#create                     19,0          19          19         0,0           1
+utilitylibrary_Author.browse#init                        1,0           1           1         0,0           1
+utilitylibrary_Author.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Author.browse#load                      927,0         927         927         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         5,0           5           5         0,0           1
+utilitylibrary_Author.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Author.edit#beforeShow                   18,0          18          18         0,0           1
+utilitylibrary_Author.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Author.edit#init                          1,0           1           1         0,0           1
+utilitylibrary_Author.edit#inject                        5,0           5           5         0,0           1
+utilitylibrary_Author.edit#load                        554,0         554         554         0,0           1
+utilitylibrary_Author.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Author.edit#xml                           5,0           5           5         0,0           1
+utilitylibrary_Book.browse#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Book.browse#beforeShow                   14,0          14          14         0,0           1
+utilitylibrary_Book.browse#create                        0,0           0           0         0,0           1
+utilitylibrary_Book.browse#init                          0,0           0           0         0,0           1
+utilitylibrary_Book.browse#inject                        1,0           1           1         0,0           1
+utilitylibrary_Book.browse#load                         13,0          13          13         0,0           1
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Book.browse#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-07-11 23:12:00 - 2019-07-11 23:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Author.browse                 1163,0        1163        1163         0,0           1
+MenuItem.utilitylibrary_Status.browse                   71,0          71          71         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     336,0         336         336         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      70,0          70          70         0,0           1
+loginWindow#load                                       889,0         889         889         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         11,5           0          23        11,5           2
+lookupWindowActions#create                              22,0          22          22         0,0           1
+lookupWindowActions#inject                               5,0           5           5         0,0           1
+lookupWindowActions#load                                10,0          10          10         0,0           1
+lookupWindowActions#xml                                  0,3           0           2         0,7           6
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       17,0          17          17         0,0           1
+mainWindow#init                                         39,0          39          39         0,0           1
+mainWindow#inject                                       25,0          25          25         0,0           1
+mainWindow#load                                        502,0         502         502         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+sec$User.lookup#afterShow                                0,0           0           0         0,0           1
+sec$User.lookup#beforeShow                               0,0           0           0         0,0           1
+sec$User.lookup#create                                   1,0           1           1         0,0           1
+sec$User.lookup#init                                     5,0           5           5         0,0           1
+sec$User.lookup#inject                                  12,0          12          12         0,0           1
+sec$User.lookup#load                                   118,0         118         118         0,0           1
+sec$User.lookup#uiPermissions                            0,0           0           0         0,0           1
+sec$User.lookup#xml                                      1,0           0           2         1,0           2
+sec$User.lookup.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.lookup@usersDs                                826,0         826         826         0,0           1
+utilitylibrary_Author.browse#afterShow                   6,0           6           6         0,0           1
+utilitylibrary_Author.browse#beforeShow                 62,0          62          62         0,0           1
+utilitylibrary_Author.browse#create                     18,0          18          18         0,0           1
+utilitylibrary_Author.browse#init                        1,0           1           1         0,0           1
+utilitylibrary_Author.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Author.browse#load                      944,0         944         944         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         6,0           6           6         0,0           1
+utilitylibrary_Author.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Author.edit#beforeShow                   64,0          64          64         0,0           1
+utilitylibrary_Author.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Author.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Author.edit#inject                        6,0           6           6         0,0           1
+utilitylibrary_Author.edit#load                        483,0         483         483         0,0           1
+utilitylibrary_Author.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Author.edit#xml                           5,0           5           5         0,0           1
+utilitylibrary_Book.browse#afterShow                     0,0           0           0         0,0           2
+utilitylibrary_Book.browse#beforeShow                    9,5           8          11         1,5           2
+utilitylibrary_Book.browse#create                        0,0           0           0         0,0           2
+utilitylibrary_Book.browse#init                          0,0           0           0         0,0           2
+utilitylibrary_Book.browse#inject                        0,0           0           0         0,0           2
+utilitylibrary_Book.browse#load                          9,0           5          13         4,0           2
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           2
+utilitylibrary_Book.browse#xml                           2,0           1           3         1,0           2
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                 16,0          16          16         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                       17,0          17          17         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         3,0           3           3         0,0           1
+utilitylibrary_Status.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Status.edit#beforeShow                    2,0           2           2         0,0           1
+utilitylibrary_Status.edit#create                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#init                          0,0           0           0         0,0           1
+utilitylibrary_Status.edit#inject                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#load                        168,0         168         168         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           2,0           2           2         0,0           1
+
+Performance Statistics   2019-07-11 23:16:00 - 2019-07-11 23:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     383,0         383         383         0,0           1
+loginWindow#init                                        39,0          39          39         0,0           1
+loginWindow#inject                                     108,0         108         108         0,0           1
+loginWindow#load                                      1097,0        1097        1097         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         15,5           0          31        15,5           2
+mainWindow#afterShow                                     7,0           7           7         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         46,0          46          46         0,0           1
+mainWindow#inject                                       33,0          33          33         0,0           1
+mainWindow#load                                        578,0         578         578         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           4,0           0           8         4,0           2
+utilitylibrary_Status.browse#create                     37,0          37          37         0,0           1
+utilitylibrary_Status.browse#init                        1,0           1           1         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                     1095,0        1095        1095         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                        11,0          11          11         0,0           1
+
+Performance Statistics   2019-07-11 23:18:00 - 2019-07-11 23:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Author.browse                 1357,0        1357        1357         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     260,0         260         260         0,0           1
+loginWindow#init                                        35,0          35          35         0,0           1
+loginWindow#inject                                      81,0          81          81         0,0           1
+loginWindow#load                                       946,0         946         946         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         16,0           0          32        16,0           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       15,0          15          15         0,0           1
+mainWindow#init                                         32,0          32          32         0,0           1
+mainWindow#inject                                       21,0          21          21         0,0           1
+mainWindow#load                                        476,0         476         476         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+utilitylibrary_Author.browse#afterShow                   6,0           6           6         0,0           1
+utilitylibrary_Author.browse#beforeShow                 64,0          64          64         0,0           1
+utilitylibrary_Author.browse#create                     28,0          28          28         0,0           1
+utilitylibrary_Author.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Author.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Author.browse#load                     1093,0        1093        1093         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         8,0           8           8         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      1,0           1           1         0,0           1
+utilitylibrary_Status.browse#load                       37,0          37          37         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 23:22:00 - 2019-07-11 23:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Status.browse                 1813,0        1813        1813         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     361,0         361         361         0,0           1
+loginWindow#init                                        35,0          35          35         0,0           1
+loginWindow#inject                                     146,0         146         146         0,0           1
+loginWindow#load                                      1131,0        1131        1131         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         11,5           0          23        11,5           2
+lookupWindowActions#create                              26,0          26          26         0,0           1
+lookupWindowActions#inject                               7,0           7           7         0,0           1
+lookupWindowActions#load                                14,0          14          14         0,0           1
+lookupWindowActions#xml                                  0,5           0           3         1,1           6
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         30,0          30          30         0,0           1
+mainWindow#inject                                       19,0          19          19         0,0           1
+mainWindow#load                                        426,0         426         426         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+sec$User.lookup#afterShow                                0,0           0           0         0,0           1
+sec$User.lookup#beforeShow                               0,0           0           0         0,0           1
+sec$User.lookup#create                                   2,0           2           2         0,0           1
+sec$User.lookup#init                                     7,0           7           7         0,0           1
+sec$User.lookup#inject                                  12,0          12          12         0,0           1
+sec$User.lookup#load                                   145,0         145         145         0,0           1
+sec$User.lookup#uiPermissions                            0,0           0           0         0,0           1
+sec$User.lookup#xml                                      2,5           0           5         2,5           2
+sec$User.lookup.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.lookup@usersDs                                978,0         978         978         0,0           1
+utilitylibrary_Status.browse#afterShow                   8,0           8           8         0,0           1
+utilitylibrary_Status.browse#beforeShow                109,0         109         109         0,0           1
+utilitylibrary_Status.browse#create                     28,0          28          28         0,0           1
+utilitylibrary_Status.browse#init                        2,0           2           2         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                     1479,0        1479        1479         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         7,0           7           7         0,0           1
+utilitylibrary_Status.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Status.edit#beforeShow                  154,0         154         154         0,0           1
+utilitylibrary_Status.edit#create                        1,0           1           1         0,0           1
+utilitylibrary_Status.edit#init                          2,0           2           2         0,0           1
+utilitylibrary_Status.edit#inject                        8,0           8           8         0,0           1
+utilitylibrary_Status.edit#load                        798,0         798         798         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           5,0           5           5         0,0           1
+
+Performance Statistics   2019-07-11 23:24:00 - 2019-07-11 23:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary_Book.browse                     82,0          82          82         0,0           1
+utilitylibrary_Book.browse#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Book.browse#beforeShow                   11,0          11          11         0,0           1
+utilitylibrary_Book.browse#create                        0,0           0           0         0,0           1
+utilitylibrary_Book.browse#init                          0,0           0           0         0,0           1
+utilitylibrary_Book.browse#inject                        0,0           0           0         0,0           1
+utilitylibrary_Book.browse#load                         17,0          17          17         0,0           1
+utilitylibrary_Book.browse#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Book.browse#xml                           5,0           5           5         0,0           1
+utilitylibrary_Book.edit#afterShow                       0,0           0           0         0,0           1
+utilitylibrary_Book.edit#beforeShow                     15,0          15          15         0,0           1
+utilitylibrary_Book.edit#create                          0,0           0           0         0,0           1
+utilitylibrary_Book.edit#init                            0,0           0           0         0,0           1
+utilitylibrary_Book.edit#inject                          0,0           0           0         0,0           1
+utilitylibrary_Book.edit#load                           23,0          23          23         0,0           1
+utilitylibrary_Book.edit#uiPermissions                   0,0           0           0         0,0           1
+utilitylibrary_Book.edit#xml                             4,0           4           4         0,0           1
+
+Performance Statistics   2019-07-11 23:26:00 - 2019-07-11 23:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.utilitylibrary$UserClass.browse               221,0         221         221         0,0           1
+MenuItem.utilitylibrary_Author.browse                   55,0          55          55         0,0           1
+MenuItem.utilitylibrary_Status.browse                   40,0          40          40         0,0           1
+lookupWindowActions#create                               0,0           0           0         0,0           1
+lookupWindowActions#inject                               0,0           0           0         0,0           1
+lookupWindowActions#load                                 2,0           2           2         0,0           1
+lookupWindowActions#xml                                  0,3           0           2         0,7           6
+sec$User.browse#afterShow                                0,0           0           0         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                   0,0           0           0         0,0           1
+sec$User.browse#init                                     8,0           8           8         0,0           1
+sec$User.browse#inject                                   9,0           9           9         0,0           1
+sec$User.browse#load                                    55,0          55          55         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      5,5           0          11         5,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                 12,0          12          12         0,0           1
+utilitylibrary_Author.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Author.browse#beforeShow                 10,0          10          10         0,0           1
+utilitylibrary_Author.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Author.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Author.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Author.browse#load                       11,0          11          11         0,0           1
+utilitylibrary_Author.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Author.browse#xml                         4,0           4           4         0,0           1
+utilitylibrary_Author.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Author.edit#beforeShow                   11,0          11          11         0,0           1
+utilitylibrary_Author.edit#create                        0,0           0           0         0,0           1
+utilitylibrary_Author.edit#init                          0,0           0           0         0,0           1
+utilitylibrary_Author.edit#inject                        0,0           0           0         0,0           1
+utilitylibrary_Author.edit#load                         13,0          13          13         0,0           1
+utilitylibrary_Author.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Author.edit#xml                           2,0           2           2         0,0           1
+utilitylibrary_Status.browse#afterShow                   0,0           0           0         0,0           1
+utilitylibrary_Status.browse#beforeShow                  7,0           7           7         0,0           1
+utilitylibrary_Status.browse#create                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#init                        0,0           0           0         0,0           1
+utilitylibrary_Status.browse#inject                      0,0           0           0         0,0           1
+utilitylibrary_Status.browse#load                        5,0           5           5         0,0           1
+utilitylibrary_Status.browse#uiPermissions               0,0           0           0         0,0           1
+utilitylibrary_Status.browse#xml                         2,0           2           2         0,0           1
+utilitylibrary_Status.edit#afterShow                     0,0           0           0         0,0           1
+utilitylibrary_Status.edit#beforeShow                   13,0          13          13         0,0           1
+utilitylibrary_Status.edit#create                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#init                          0,0           0           0         0,0           1
+utilitylibrary_Status.edit#inject                        0,0           0           0         0,0           1
+utilitylibrary_Status.edit#load                          6,0           6           6         0,0           1
+utilitylibrary_Status.edit#uiPermissions                 0,0           0           0         0,0           1
+utilitylibrary_Status.edit#xml                           2,0           2           2         0,0           1
+

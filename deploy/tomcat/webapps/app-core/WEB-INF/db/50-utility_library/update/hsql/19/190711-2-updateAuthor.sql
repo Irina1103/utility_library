@@ -1,0 +1,2 @@
+alter table UTILITYLIBRARY_AUTHOR alter column PLACE_PUBLICATION rename to PLACE_PUBLICATION__U09053 ^
+alter table UTILITYLIBRARY_AUTHOR add column TITLE_ID varchar(36) ;

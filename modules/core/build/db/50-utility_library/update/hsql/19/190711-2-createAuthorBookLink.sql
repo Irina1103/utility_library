@@ -1,0 +1,2 @@
+alter table UTILITYLIBRARY_AUTHOR_BOOK_LINK add constraint FK_AUTBOO_ON_AUTHOR foreign key (AUTHOR_ID) references UTILITYLIBRARY_AUTHOR(ID);
+alter table UTILITYLIBRARY_AUTHOR_BOOK_LINK add constraint FK_AUTBOO_ON_BOOK foreign key (BOOK_ID) references UTILITYLIBRARY_BOOK(ID);

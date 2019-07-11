@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views xmlns="http://schemas.haulmont.com/cuba/view.xsd">
+
+    <view entity="utilitylibrary$UserClass" name="userClass-view" extends="_local"/>
+
+
+    <view class="com.company.utilitylibrary.entity.UserClass"
+          name="user.browse"
+          extends="user.browse">
+        <property name="status"/>
+    </view>
+    <view entity="utilitylibrary_Author" name="author-view" extends="_local">
+        <property name="title" view="_minimal">
+            <property name="title"/>
+        </property>
+    </view>
+    <view entity="utilitylibrary_Status" name="status-view" extends="_local">
+        <property name="title_book" view="_minimal"/>
+        <property name="status" view="_minimal"/>
+    </view>
+</views>
